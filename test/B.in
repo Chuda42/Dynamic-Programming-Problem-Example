@@ -1,0 +1,13 @@
+leer_datos
+10 20 .
+leer_rendimiento
+11 1 .
+max_datos_procesados
+planificacion_optima
+leer_datos
+10 50 .
+leer_rendimiento
+10 1 .
+max_datos_procesados
+planificacion_optima
+Fin
